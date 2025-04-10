@@ -1,6 +1,6 @@
 # 🌲🔥 Forest Fire Spread Visualizer
 
-A web-based simulation tool that visualizes the spread of a wildfire through a forest grid. Built using a Python Flask backend and a React frontend, this project demonstrates how a fire spreads over time using a Breadth-First Search (BFS) algorithm. Users can draw a custom forest grid, simulate fire spread, and see how long it takes for the fire to burn all reachable trees.
+A web-based simulation tool that visualizes the spread of a wildfire through a forest grid. Built using a Python Flask backend and a React frontend, this project demonstrates how a fire spreads over time using **a Breadth-First Search (BFS) algorithm**. Users can draw a custom forest grid, simulate fire spread, and see how long it takes for the fire to burn all reachable trees.
 
 ---
 
